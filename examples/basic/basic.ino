@@ -29,7 +29,7 @@ void setup(void)
 }
 
 void loop() {
-  if (millis() - refreshTime > 20) {
+  if (millis() - refreshTime > 40) {
     refreshTime = millis();
     uint8_t algo = HRS3300.getHR();
     switch (algo) {
