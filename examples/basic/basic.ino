@@ -43,7 +43,7 @@ void loop() {
         Serial.println("DATA_TOO_SHORT"); // Not enough data to calculate Heartrate please wait
         break;
       default:
-        Serial.println(algo);
+        Serial.println(algo); //Got a heartrate print it to Serial
         break;
     }
   }
