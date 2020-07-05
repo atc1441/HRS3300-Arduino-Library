@@ -1,6 +1,7 @@
 # HRS3300-Arduino-Library
 Arduino Library for the HRS3300 Heartrate sensor for the nRF52 Bluetooth Micro
 
+### You can support my work via paypal: https://paypal.me/hoverboard1 this keeps projects like this comming.
 
 It includes a closed source .a file, to get the Arduino IDE recognize it you need to edit the Platform.txt from the nRF52 library.
 
