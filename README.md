@@ -11,6 +11,7 @@ Add: ```compiler.libraries.ldflags=``` somewhere as a new line.
 also add: ```{compiler.libraries.ldflags}``` somewhere ad the end of line ```combine.pattern```
 
 For more infos watch this video for another Heartrate Sensor: 
+
 [![YoutubeVideo](https://img.youtube.com/vi/E0W65KbaeA8/0.jpg)](https://www.youtube.com/watch?v=E0W65KbaeA8)
 
 Demo video:
